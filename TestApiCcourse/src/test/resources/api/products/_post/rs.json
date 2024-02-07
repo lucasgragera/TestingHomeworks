@@ -1,0 +1,4 @@
+{
+  "id": "type:Interger",
+  <#if title??>"title": "${title}"</#if>//freemarker constructor
+}
